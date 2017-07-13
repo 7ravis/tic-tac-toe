@@ -1,2 +1,2 @@
 # tic-tac-toe
-Tic-Tac-Toe Java app with variable board size.
+Java console application with variable board size, scalable win-checking algorithm, and JUnit testing.
